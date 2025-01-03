@@ -1,3 +1,4 @@
+#import library 
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
@@ -7,7 +8,7 @@ import streamlit as st
 data_2019 = pd.read_csv('2019.csv')
 
 # Streamlit App
-st.title("Combined Visualizations of World Happiness Report 2019")
+st.title("Combined Data Visualizations of the 2019 World Happiness Report")
 
 # Bar Chart: Peringkat kebahagiaan negara berdasarkan skor kebahagiaan mereka
 st.subheader("Happiness Score by Country")
