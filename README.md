@@ -21,7 +21,7 @@ Marker diperbesar untuk penekanan.<br>
 Heatmap: Distribusi Skor Kebahagiaan Secara Geografis<br>
 
 Menampilkan skor kebahagiaan dalam bentuk peta dunia (heatmap).
-Negara dengan skor tertinggi (Finlandia) dan terendah (South Sudan) diberi anotasi.
+Negara dengan skor tertinggi (Finlandia) dan terendah (South Sudan) diberi anotasi.<br><br>
 Teknologi yang Digunakan<br>
 Library Python:<br>
 pandas untuk membaca dan memproses dataset.<br>
