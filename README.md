@@ -22,13 +22,13 @@ Heatmap: Distribusi Skor Kebahagiaan Secara Geografis<br>
 
 Menampilkan skor kebahagiaan dalam bentuk peta dunia (heatmap).
 Negara dengan skor tertinggi (Finlandia) dan terendah (South Sudan) diberi anotasi.
-Teknologi yang Digunakan
+Teknologi yang Digunakan<br>
 Library Python:
 pandas untuk membaca dan memproses dataset.
 plotly.express dan plotly.graph_objects untuk membuat grafik interaktif.
 streamlit untuk membuat aplikasi berbasis web.
-Dataset: Laporan "World Happiness Report 2019".
-Keunggulan
+Dataset: Laporan "World Happiness Report 2019".<br>
+Keunggulan:
 Visualisasi interaktif.
 Penambahan anotasi untuk memberikan konteks pada data.
 Kombinasi grafik yang beragam (bar, line, scatter, heatmap).
