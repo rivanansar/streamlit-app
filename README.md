@@ -1,6 +1,6 @@
 # streamlit-app
 
-#Tujuan Aplikasi
+**Tujuan Aplikasi
 Aplikasi Streamlit ini menampilkan berbagai visualisasi data dari laporan "World Happiness Report 2019".<br>
 <br>
 - Visualisasi yang Ditampilkan<br>
