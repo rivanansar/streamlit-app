@@ -27,4 +27,7 @@ Dataset: Laporan "World Happiness Report 2019".<br>
 **Keunggulan:**<br>
 - Visualisasi interaktif.<br>
 - Penambahan anotasi untuk memberikan konteks pada data.
-- Kombinasi grafik yang beragam (bar, line, scatter, heatmap).
+- Kombinasi grafik yang beragam (bar, line, scatter, heatmap).<br>
+
+
+Link Streamlit : https://visualisasidata-appkel9-a2ro6n566jyhslgfqgbz3s.streamlit.app/ 
