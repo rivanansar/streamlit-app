@@ -1,6 +1,6 @@
 # streamlit-app
 
-**Tujuan Aplikasi
+**Tujuan Aplikasi**<br>
 Aplikasi Streamlit ini menampilkan berbagai visualisasi data dari laporan "World Happiness Report 2019".<br>
 <br>
 - Visualisasi yang Ditampilkan<br>
@@ -22,13 +22,13 @@ Heatmap: Distribusi Skor Kebahagiaan Secara Geografis<br>
 
 Menampilkan skor kebahagiaan dalam bentuk peta dunia (heatmap).
 Negara dengan skor tertinggi (Finlandia) dan terendah (South Sudan) diberi anotasi.<br><br>
-#Teknologi yang Digunakan<br>
+**Teknologi yang Digunakan**<br>
 Library Python:<br>
 pandas untuk membaca dan memproses dataset.<br>
 plotly.express dan plotly.graph_objects untuk membuat grafik interaktif.
 streamlit untuk membuat aplikasi berbasis web.
 Dataset: Laporan "World Happiness Report 2019".<br>
-#Keunggulan:<br>
+**Keunggulan:**<br>
 Visualisasi interaktif.<br>
 Penambahan anotasi untuk memberikan konteks pada data.
 Kombinasi grafik yang beragam (bar, line, scatter, heatmap).
